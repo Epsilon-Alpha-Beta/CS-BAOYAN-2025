@@ -40,3 +40,4 @@
 * @[ACshine](https://github.com/ACshine)的[2024年（2025届）-中2计算机保研全过程经验帖（杭高院、西工大、北邮、成电、华师、北师、复旦、北航等](https://zhuanlan.zhihu.com/p/860709046)
 * @[swxk](https://www.zhihu.com/people/sai-wai-xing-ke)的[2024年（25届）次九纯rank选手保研回忆录（哈工深cs，中大ai，中科大aids，浙大软院）](https://zhuanlan.zhihu.com/p/924781136)
 * @[Jayson](https://www.zhihu.com/people/cai-cai-46-94-34)的[2024年（2025届）计算机/自动化保研回忆录（南大AI、人大高瓴、浙大控制、中科大6系、清深大数据）](https://zhuanlan.zhihu.com/p/940729266)
+* @[天南海北](https://www.zhihu.com/people/tian-nan-hai-bei-2541)的[2024年（2025届）低rank三无鼠鼠保研的奇幻漂流之旅（北邮计院、计算所、华科国光、空天院、国网电科院、东南计院、天佐、科大工硕、浙大软院、科大10系、中大软院、武大网安、北航计院，3.0w字）](https://zhuanlan.zhihu.com/p/839171218)
